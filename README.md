@@ -13,6 +13,8 @@ $ cd text_drawing/
 $ python run.py 
 ```
 
+![output_word_cloud](https://github.com/yagiyuki/test_word_cloud/blob/master/output.png)
+
 ## 依存ライブラリ
 
 * [word_cloud](https://github.com/amueller/word_cloud)
